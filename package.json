@@ -1,0 +1,9 @@
+{
+  "name": "decentralized-storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs-http-client": "^60.0.1"
+  }
+}
